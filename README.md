@@ -40,11 +40,11 @@ Dashboard interativo criado no **Power BI** para análise georreferenciada de oc
 
 |   Ação   | Imagem                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Ao baixar a pasta do projeto, abra o Power BI    | <img  width = "20%" src="./imagens/instruções/arquivo_pbi.png">
-|  Clicar em Transformar Dados:  | <img src="./imagens/instruções/transformar_dados.png"> |
-| Clicar em Local Base | <img src="./imagens/instruções/local_base_parametro.png">|
-| Verificar o caminho no seu computador de onde está a tabela DP e copiar | <img src="./imagens/instruções/caminho.png"> |
-| Colar esse caminho no campo valor do Local Base | <img src="./imagens/instruções/local_base_valor.png"> |
+|  Ao baixar a pasta do projeto, abra o Power BI    | <img  width = "20%" src="./imagem/arquivo_pbi.png">
+|  Clicar em Transformar Dados:  | <img src="./imagem/transformar_dados.png"> |
+| Clicar em Local Base | <img src="./imagem/local_base_parametro.png">|
+| Verificar o caminho no seu computador de onde está a tabela DP e copiar | <img src="./imagem/caminho.png"> |
+| Colar esse caminho no campo valor do Local Base | <img src="./imagem/local_base_valor.png"> |
 
   
 
