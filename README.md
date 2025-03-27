@@ -3,7 +3,7 @@
 >  **Nota:** Projeto desenvolvido no curso de *Análise de Dados com Power BI* para a plataforma [RioOn](https://rioon.rio.br/) em parceria com o [Senac RJ](https://www.rj.senac.br/).
 
 <div align="center">
- <img width = "100%" src = "./imagem/gif1.gif">
+ <img width = "100%" src = "gif1.gif">
 </div>
 
 ---
