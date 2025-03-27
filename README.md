@@ -1,9 +1,9 @@
 ## <div align="center">📊 Análise de Roubos e Furtos no Estado do Rio de Janeiro</div>
 
-> ℹ️ **Nota:** Projeto desenvolvido no curso de *Análise de Dados com Power BI* para a plataforma [RioOn](https://rioon.rio.br/) em parceria com o [Senac RJ](https://www.rj.senac.br/).
+>  **Nota:** Projeto desenvolvido no curso de *Análise de Dados com Power BI* para a plataforma [RioOn](https://rioon.rio.br/) em parceria com o [Senac RJ](https://www.rj.senac.br/).
 
 <div align="center">
- <img width = "100%" src = "./videos/
+ <img width = "100%" src = "./videos/GIF01">
 </div>
 
 ---
