@@ -1,39 +1,40 @@
-## <div align="center">📊 Análise de Roubos e Furtos no Estado do Rio de Janeiro</div>
-
->  **Nota:** Projeto desenvolvido no curso de *Análise de Dados com Power BI* para a plataforma [RioOn](https://rioon.rio.br/) em parceria com o [Senac RJ](https://www.rj.senac.br/).
+# <div align="center" style="font-family: 'Segoe UI', sans-serif; color: #2a3f5f">📊 Análise de Roubos e Furtos no Rio de Janeiro</div>
 
 <div align="center">
- <img width = "100%" src = "gif1.gif">
+  <img width="85%" src="gif1.gif" alt="Dashboard Power BI - Visualização interativa">
 </div>
 
 ---
 
-### **🔎 Sobre o Projeto**
-Dashboard interativo criado no **Power BI** para análise georreferenciada de ocorrências de roubos e furtos no RJ, utilizando dados públicos da plataforma RioOn.
+## <div style="border-left: 4px solid #2a3f5f; padding-left: 12px">📌 Sobre</div>
+Dashboard georreferenciado desenvolvido no **Power BI** para análise criminal, utilizando dados abertos do RJ.  
+*Projeto acadêmico em parceria com [RioOn](https://rioon.rio.br/) e [Senac RJ](https://www.rj.senac.br/).*
 
 ---
-### 📂 Bases de Dados
 
-- [ISP Dados RJ](https://www.ispdados.rj.gov.br/Arquivos/BaseDPEvolucaoMensalCisp.csv)
-- [Dados das Delegacias](https://github.com/vivianebatista92/roubos_e_furtos_veiculos_RJ_PowerBI/blob/main/base_dados/DP.csv)
----
-### **🛠️ Tecnologias Utilizadas**
-- **Power BI** (Transformação de dados, DAX, visualizações)
-- **Power Query** (Limpeza e modelagem)
-- **Georreferenciamento** (Mapas interativos)
+## <div style="border-left: 4px solid #2a3f5f; padding-left: 12px">🛠️ Tech Stack</div>
+<div style="display: flex; gap: 15px; flex-wrap: wrap">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Power_Query-2B579A?style=for-the-badge&logo=powerquery&logoColor=white" alt="Power Query">
+  <img src="https://img.shields.io/badge/DAX-FFB900?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX">
+</div>
 
 ---
- ## 📈 Análises Desenvolvidas
 
-|   **Análises Realizadas com Medidas DAX** |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <li> Top 10 Crimes </li> |
- | <li> Top 10 Municípios com o maior número de ocorrências </li>|
- | <li> Comparação de regiões por total de ocorrências </li>|
- | <li> Evolução ocorrências por ano e mês </li>|
- | <li> Roubo e Furto de Veículos vs Recuperação de Veículos, por ano e por mês </li>|
+## <div style="border-left: 4px solid #2a3f5f; padding-left: 12px">📊 Análises</div>
+✔ **Top 10** Crimes e Municípios  
+✔ Evolução temporal (ano/mês)  
+✔ Comparação regional  
+✔ Roubo vs Recuperação de veículos  
 
- ---
+---
+
+## <div style="border-left: 4px solid #2a3f5f; padding-left: 12px">📁 Bases Utilizadas</div>
+- [Dados ISP RJ](https://www.ispdados.rj.gov.br/)
+- [Localização de Delegacias](https://github.com/vivianebatista92/roubos_e_furtos_veiculos_RJ_PowerBI)
+
+---
+
  ## ❓ Utilização do Projeto
 
 - O arquivo do Power BI, por possuir uma tabela que não é hospedada em algum site, para funcionar, deve seguir alguns passos:
@@ -45,8 +46,4 @@ Dashboard interativo criado no **Power BI** para análise georreferenciada de oc
 | Clicar em Local Base | <img src="./imagem/local_base_parametro.png">|
 | Verificar o caminho no seu computador de onde está a tabela DP e copiar | <img src="./imagem/caminho.png"> |
 | Colar esse caminho no campo valor do Local Base | <img src="./imagem/local_base_valor.png"> |
-
-  
-
-
 
