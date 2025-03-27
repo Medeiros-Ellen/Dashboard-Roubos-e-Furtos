@@ -12,15 +12,39 @@
 Dashboard interativo criado no **Power BI** para análise georreferenciada de ocorrências de roubos e furtos no RJ, utilizando dados públicos da plataforma RioOn.
 
 ---
+### 📂 Bases de Dados
 
+- [ISP Dados RJ](https://www.ispdados.rj.gov.br/Arquivos/BaseDPEvolucaoMensalCisp.csv)
+- [Dados das Delegacias](https://github.com/vivianebatista92/roubos_e_furtos_veiculos_RJ_PowerBI/blob/main/base_dados/DP.csv)
+---
 ### **🛠️ Tecnologias Utilizadas**
 - **Power BI** (Transformação de dados, DAX, visualizações)
 - **Power Query** (Limpeza e modelagem)
 - **Georreferenciamento** (Mapas interativos)
 
 ---
+ ## 📈 Análises Desenvolvidas
 
-### **📂 Estrutura do Repositório**
+|   **Análises Realizadas com Medidas DAX** |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <li> Top 10 Crimes </li> |
+ | <li> Top 10 Municípios com o maior número de ocorrências </li>|
+ | <li> Comparação de regiões por total de ocorrências </li>|
+ | <li> Evolução ocorrências por ano e mês </li>|
+ | <li> Roubo e Furto de Veículos vs Recuperação de Veículos, por ano e por mês </li>|
+
+ ---
+ ## ❓ Utilização do Projeto
+
+- O arquivo do Power BI, por possuir uma tabela que não é hospedada em algum site, para funcionar, deve seguir alguns passos:
+
+|   Ação   | Imagem                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  Ao baixar a pasta do projeto, abra o Power BI    | <img  width = "20%" src="./imagens/instruções/arquivo_pbi.png">
+|  Clicar em Transformar Dados:  | <img src="./imagens/instruções/transformar_dados.png"> |
+| Clicar em Local Base | <img src="./imagens/instruções/local_base_parametro.png">|
+| Verificar o caminho no seu computador de onde está a tabela DP e copiar | <img src="./imagens/instruções/caminho.png"> |
+| Colar esse caminho no campo valor do Local Base | <img src="./imagens/instruções/local_base_valor.png"> |
 
   
 
