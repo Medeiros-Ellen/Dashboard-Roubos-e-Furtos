@@ -47,3 +47,8 @@ Dashboard georreferenciado desenvolvido no **Power BI** para análise criminal, 
 | Verificar o caminho no seu computador de onde está a tabela DP e copiar | <img src="./imagem/caminho.png"> |
 | Colar esse caminho no campo valor do Local Base | <img src="./imagem/local_base_valor.png"> |
 
+# 
+<p align="center">
+<img 
+    src="imagem/Blue and White Architect LinkedIn Banner.png"
+    >
